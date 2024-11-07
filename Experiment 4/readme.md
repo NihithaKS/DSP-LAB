@@ -1,9 +1,9 @@
-Aim:
+# Aim:
 To find circular convolution 
 1. Using FFT and IFFT. 
 2. Using Concentric Circle Method. 
 3. Using Matrix Method.
-Theory:
+# Theory:
 Circular convolution is a mathematical operation that is like linear convolution 
 but is performed in a periodic or circular manner. This is particularly useful in discretetime signal processing where signals are often represented as periodic sequences. 
  Mathematical Definition: 
