@@ -1,7 +1,7 @@
-Aim:
+# Aim:
 1. To perform Linear Convolution using Circular Convolution. 
 2. To perform Circular Convolution using Linear Convolution.
-Theory:
+# Theory:
 Performing Linear Convolution Using Circular Convolution 
 Method: 
 1. Zero-Padding: 
