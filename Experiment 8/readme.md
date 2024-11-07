@@ -1,7 +1,7 @@
-Aim:
+# Aim:
 Implement overlap add and overlap save method using Matlab/Scilab.
 
-Theory:
+# Theory:
 Both the Overlap-Save and Overlap-Add methods are techniques used to compute the convolution of long signals using the Fast Fourier Transform (FFT). The direct convolution of two signals, especially when they are long, can be computationally expensive. These methods allow us to break the signals into smaller blocks and use the FFT to perform the convolution more efficiently.
 Overlap-Save Method
 The Overlap-Save method deals with circular convolution by discarding the parts of the signal that are corrupted by wrap-around effects. Here's how it works:
