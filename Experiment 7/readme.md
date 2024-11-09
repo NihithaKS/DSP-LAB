@@ -36,8 +36,7 @@ Observation:
 1. Linearity Property
 enter first sequence[1 2 3 4]
 enter sequence sequence:[1 1 1 1]
-x =  
-1     2     3     4
+x =  1     2     3     4
 enter value of 'a':2
 enter value of 'b':3
 LHS
@@ -46,7 +45,7 @@ RHS
   32.0000 + 0.0000i  -4.0000 + 4.0000i  -4.0000 + 0.0000i  -4.0000 - 4.0000i
 Linearity property verified
 
-2. Parseval's Theorem
+3. Parseval's Theorem
  enter first sequence:[1 2 3 4]
 enter second sequence:[1 1 1 1]
 LHS
@@ -54,7 +53,8 @@ LHS
 RHS
     10
 Parseval's Theorem verified
-3.Convolution Property
+
+4. Convolution Property
 enter first sequence[1 2 3 4]
 enter sequence sequence:[1 1 1 1]
 LHS
@@ -62,7 +62,8 @@ LHS
 RHS
     10    10    10    10
 Circular Convolution verified
-4.Multiplication Property
+
+5. Multiplication Property
 enter first sequence[1 2 3 4]
 enter sequence sequence:[1 1 1 1]
 LHS
