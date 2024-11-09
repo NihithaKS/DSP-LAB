@@ -20,14 +20,15 @@ Observation:
 Enter the input sequence x : [3 -1 0 1 3 2 0 1 2 1]
 Enter the impulse response h : [1 1 1]
 Overlap-add convolution result:
-     3     2     2     0     4     6     5     3     3     4     3     1
+     3     2     2     0     4     6     5     3     3     4     3     1   
 Built-in convolution result:
      3     2     2     0     4     6     5     3     3     4     3     1
-2.Overlap Save
+   
+3. Overlap Save
 Enter 1st sequence: [3 -1 0 1 3 2 0 1 2 1]
 Enter 2nd sequence: [1 1 1]
 Fragmented block size: 3
 Using Overlap and Save method
      3     2     2     0     4     6     5     3     3     4     3     1
-Verification
+   Verification
     3.0000    2.0000    2.0000         0    4.0000    6.0000    5.0000    3.0000    3.0000    4.0000    3.0000    1.0000
