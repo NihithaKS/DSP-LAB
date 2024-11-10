@@ -49,3 +49,4 @@ decay is determined by the constant a.
 • Mathematically u(t) ={ 1 ; t≥0,
  0 ; t<0}
 
+![output1](https://github.com/user-attachments/assets/60383c65-70b5-43b7-b64a-47a49c1291bd)
