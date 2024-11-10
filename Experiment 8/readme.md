@@ -15,16 +15,18 @@ The Overlap-Add method, on the other hand, handles circular convolution by addin
 2. FFT and Convolution: Each block is convolved with the filter using FFT. Since the blocks are zero-padded, the convolution produces valid linear results, but the output blocks overlap.
 3. Overlap and Add: After convolution, the results of each block overlap by samples. These overlapping regions are added together to form the final output.
 
-Observation:
-1. Overlap Add
+# Observation:
+## Overlap Add
 Enter the input sequence x : [3 -1 0 1 3 2 0 1 2 1]
 Enter the impulse response h : [1 1 1]
 Overlap-add convolution result:
      3     2     2     0     4     6     5     3     3     4     3     1   
 Built-in convolution result:
      3     2     2     0     4     6     5     3     3     4     3     1
+![output 8](https://github.com/user-attachments/assets/212e308e-3f03-458f-9b2b-babbd67c1461)
+
    
-3. Overlap Save
+## Overlap Save
 Enter 1st sequence: [3 -1 0 1 3 2 0 1 2 1]
 Enter 2nd sequence: [1 1 1]
 Fragmented block size: 3
