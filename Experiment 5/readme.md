@@ -47,3 +47,8 @@ o Perform linear convolution. The result will be [4, 13, 21, 15, 0].
 3. Modulus Operation: 
 o Apply the modulus operation to the indices: [4, 13, 21, 15, 0] becomes [4, 
 13, 2, 15, 0].
+# Observation:
+## Linear using circular
+![linear_using_circular_output](https://github.com/user-attachments/assets/99b6ebdf-0693-4c16-b94e-9a4416f867ba)
+## Circular using linear
+![circular_using_linear_output](https://github.com/user-attachments/assets/cda5d733-2281-4254-ba46-a3cab40565d7)
