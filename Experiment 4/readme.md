@@ -16,3 +16,11 @@ processing algorithms.
 • Cyclic Convolution: In certain applications, such as cyclic prefix OFDM, 
 circular convolution is used to simplify the implementation of linear 
 convolution.
+# Observation:
+## Concentric circle method
+![concentric_output](https://github.com/user-attachments/assets/e2325fd6-8ef9-448c-904b-e86a41500106)
+## FFT and IFFT
+![fftifft_output](https://github.com/user-attachments/assets/7386f381-e673-4094-bdd2-b2415d3c1626)
+## Matrix mathod
+![matrix_output](https://github.com/user-attachments/assets/9411c1ef-740d-4ae4-8681-bfeb8ceaa966)
+
