@@ -46,13 +46,16 @@ Disadvantages:
 
 # Observation
 ## Low pass
-![lowpass_output](https://github.com/user-attachments/assets/20226df1-f21c-480f-81c7-65c768e6ab00)
+![ll](https://github.com/user-attachments/assets/59ab2309-f623-4fd5-82fe-c3c87f86eaf6)
 
 ## High pass
-![highpass_output](https://github.com/user-attachments/assets/cb8cc794-c270-491b-b0e9-62d56edc5167)
-
-## Band pass
 ![pp](https://github.com/user-attachments/assets/c5f52be3-b65e-429a-9b52-227865667a96)
 
+## Band pass
+![bb](https://github.com/user-attachments/assets/359d4b0f-85ef-429d-befe-57e6dbc018d3)
+
+
+
 ## Band reject
-![ll](https://github.com/user-attachments/assets/59ab2309-f623-4fd5-82fe-c3c87f86eaf6)
+![aa](https://github.com/user-attachments/assets/5c1da171-7aeb-43a8-8553-8430cb6ae95e)
+
