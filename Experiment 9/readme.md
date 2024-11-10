@@ -51,11 +51,9 @@ Disadvantages:
 ## High pass
 ![pp](https://github.com/user-attachments/assets/c5f52be3-b65e-429a-9b52-227865667a96)
 
-## Band pass
+## Band stop
 ![bb](https://github.com/user-attachments/assets/359d4b0f-85ef-429d-befe-57e6dbc018d3)
 
-
-
-## Band reject
+## Band pass
 ![aa](https://github.com/user-attachments/assets/5c1da171-7aeb-43a8-8553-8430cb6ae95e)
 
