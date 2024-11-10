@@ -60,8 +60,8 @@ Application
 • Detection
 • Estimation
 
-Observation:
-1.DFT
+# Observation:
+## DFT
 enter sequence:[1 1 1 0]
 enter the N point:8
 X
@@ -80,7 +80,7 @@ fft
   Column 8
    1.7071 + 1.7071i
 
-2.IDFT
+## IDFT
 enter sequence: [3.0000 + 0.0000i   1.7071 - 1.7071i   0.0000 - 1.0000i   0.2929 + 0.2929i   1.0000 + 0.0000i   0.2929 - 0.2929i   0.0000 + 1.0000i]
 enter the n point:8
 x
